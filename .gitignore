@@ -1,0 +1,10 @@
+*.cfg
+*.log
+*.pyc
+*.o
+
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
